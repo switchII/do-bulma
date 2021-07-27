@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/do-community/do-bulma.git"
+    "url": "git+https://github.com/switchII/do-bulma.git"
   },
   "author": "DigitalOcean",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/do-community/do-bulma/issues"
+    "url": "https://github.com/switchII/do-bulma/issues"
   },
-  "homepage": "https://github.com/do-community/do-bulma#readme",
+  "homepage": "https://github.com/switchII/do-bulma#readme",
   "dependencies": {
     "bulma": "^0.9.1"
   },
   "devDependencies": {
-    "do-vue": "git+https://github.com/do-community/do-vue.git",
+    "do-vue": "git+https://github.com/switchII/do-vue.git",
     "posthtml": "^0.15.1",
     "posthtml-extend": "^0.6.0",
     "sass": "^1.30.0",
